@@ -15,3 +15,5 @@ sqlite隐藏列rowid
 kali安装搜狗输入法：https://www.cnblogs.com/yemu/p/12195861.html
 
 kali没有javac编译器运行命令：apt install default-jdk
+
+快连下载：https://download.dwladold.xyz/windows/letsvpn-latest.exe
