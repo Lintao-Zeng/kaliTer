@@ -1,0 +1,9 @@
+.tar解包命令@@tar xvf filename.tar@@
+.tar打包命令@@tar cvf filename.tar dirname@@
+.zip解包命令@@unzip filename.zip@@
+.zip打包命令@@zip filename.zip dirname@@
+.rar解包命令@@rar x filename.rar@@
+.rar打包命令@@rar a filename.rar dirname@@
+.gz解包命令@@gzip filename.gz@@
+.gz打包命令@@gzip filename@@
+kali的文件管理器名称@@thunar@@
