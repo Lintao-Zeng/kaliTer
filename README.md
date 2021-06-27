@@ -15,3 +15,7 @@ sqlite隐藏列rowid
 kali没有javac编译器运行命令：apt install default-jdk
 
 快连下载：https://download.dwladold.xyz/windows/letsvpn-latest.exe
+
+快连重要信息路径：```/data/data/world.letsgo.booster.android.pro/files/apiAgent.txt```
+
+
